@@ -1,7 +1,7 @@
 class Author 
   
-  attr_accessor :author, :post
-  def initialize(author, post = [])
+  attr_accessor :name, :post
+  def initialize(name, post = [])
     @author = author 
     @post = post 
   end 
