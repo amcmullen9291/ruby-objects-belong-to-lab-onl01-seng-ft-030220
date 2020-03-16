@@ -5,7 +5,7 @@ attr_accessor :title, :artist
   def initialize 
 #    @title = title 
  #   @artist = artist 
-    Artist.Song << self 
+ #   Artist.Song << self 
   end 
 
 end 
