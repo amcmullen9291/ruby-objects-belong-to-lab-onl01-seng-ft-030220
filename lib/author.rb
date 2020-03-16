@@ -1,10 +1,10 @@
 class Author 
   
-  def initialize
+  def initialize(author)
     
   end
   
-  def named(author)
+  def name(author)
     @name = author 
   end 
 
