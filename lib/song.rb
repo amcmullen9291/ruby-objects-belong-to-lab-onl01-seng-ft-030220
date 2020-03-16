@@ -6,6 +6,6 @@ attr_accessor :title, :artist
 #    @title = title 
  #   @artist = artist 
  #   Artist.Song << self 
-  end 
+ # end 
 
 end 
