@@ -1,11 +1,14 @@
 class Author 
   
-  def initialize(name)
+  def initialize
     
   end
   
-  def name
-    @name = name 
+  def named(author)
+    @name = author 
   end 
-  
+
+  def name
+    @name 
+  end
 end 
